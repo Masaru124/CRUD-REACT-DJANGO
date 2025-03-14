@@ -69,5 +69,3 @@ You can access the application at [URL, e.g., http://localhost:8000].
 To interact with the application, you can use the following endpoints:
 - [List any relevant endpoints and their descriptions]
 
-## Conclusion
-Follow these instructions to effectively manage your contributions to the project using Git and to utilize the project effectively.
